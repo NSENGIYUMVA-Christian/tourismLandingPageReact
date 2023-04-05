@@ -101,7 +101,7 @@ export const tours = [
     id: 3,
     image: tour3,
     date: "september 15th, 2020",
-    title: "explore hong kong",
+    title: "explore hong kong city",
     info: `Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cumque
     vitae tempore voluptatum maxime reprehenderit eum quod
     exercitationem fugit, qui corporis.`,
